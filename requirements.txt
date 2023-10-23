@@ -1,0 +1,6 @@
+tqdm
+argparse
+matplotlib>2.0.0
+numpy>=1.0.0
+pandas
+wandb
